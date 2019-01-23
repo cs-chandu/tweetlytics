@@ -18,7 +18,7 @@ CLI - A Machine learning Twitter scrapping tool for analysing users, pages and s
  access_token = "ACCESS TOKEN"
  access_secret = "ACCESS SECRET"
  ```
- 3. Navigate to the *tweetlytics-master* folder and run `twe.py` file to launch tweepy
+ 3. Navigate to the *tweetlytics-master* folder and run `tweetlytics.py` file to launch tweepy
 
  4. Enter 1 for analyzing user/pages and 2 for streaming event
  
